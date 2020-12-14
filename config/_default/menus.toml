@@ -6,9 +6,14 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 10
+  weight = 1
 
-
+[[main]]
+  name = "My Widget Page"  # Title of the link.
+  url = "landing/"  # Widget Page folder name.
+  weight = 2  # Position of the link in the navigation bar.
+  
+  
 [[main]]
   name = "My research"  # A link title for your page.
   url = "myres.md"  # The URL of your page.
