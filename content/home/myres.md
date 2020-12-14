@@ -1,5 +1,9 @@
 ---
-title: An example title
+widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+
+title: Publications bhagya
 summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
 
@@ -16,3 +20,5 @@ header:
 
 Add your *content* here...
 Here I discribe my reseant research work!
+
+
